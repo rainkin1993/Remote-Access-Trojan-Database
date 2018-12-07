@@ -1,4 +1,6 @@
-# Remote-Access-Trojan-Database
+# Remote-Access-Trojan-Database 
+
+All samples in this database can only used for research purpose.
 
 # the status of all RAT samples includin whether a certain RAT sample can be executed successfully, public year, related report.
 
